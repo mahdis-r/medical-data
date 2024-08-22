@@ -1,4 +1,4 @@
-# Medical-Data
+# medical-data
 This repo is meant to be used as some sort of cheat sheet for working with medical data plus medical image processing.
 
 There are two common formats that medical images (X-Ray, CT, MRI, PET) are stored in:
